@@ -1,0 +1,15 @@
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\bin\Debug\net6.0\EXEMPLOEXPLRANDO.exe
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\bin\Debug\net6.0\EXEMPLOEXPLRANDO.deps.json
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\bin\Debug\net6.0\EXEMPLOEXPLRANDO.runtimeconfig.json
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\bin\Debug\net6.0\EXEMPLOEXPLRANDO.dll
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\bin\Debug\net6.0\EXEMPLOEXPLRANDO.pdb
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.csproj.AssemblyReference.cache
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.AssemblyInfoInputs.cache
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.AssemblyInfo.cs
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.csproj.CoreCompileInputs.cache
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.dll
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\refint\EXEMPLOEXPLRANDO.dll
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.pdb
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\EXEMPLOEXPLRANDO.genruntimeconfig.cache
+C:\Users\LennonMartins\source\repos\EXEMPLOEXPLRANDO\EXEMPLOEXPLRANDO\obj\Debug\net6.0\ref\EXEMPLOEXPLRANDO.dll
