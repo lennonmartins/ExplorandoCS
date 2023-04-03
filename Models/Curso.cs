@@ -29,8 +29,7 @@ namespace EXEMPLOEXPLRANDO.Models
         public void listarAlunos(){
             Console.WriteLine($"Alunos matriculado no curso de {NomeCurso}");
             for(int count=0 ; count < Alunos.Count; count ++){
-                string texto = "Nº " + count + " - " + Alunos[count].NomeCompleto;
-                Console.WriteLine(texto);
+                Console.WriteLine($"Nº {count+1} - {Alunos[count].NomeCompleto}");
             }
         }
     }
